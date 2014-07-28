@@ -1,4 +1,4 @@
-# Awesome Python
+﻿# Awesome RK
 
 A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
